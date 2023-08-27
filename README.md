@@ -3,7 +3,7 @@
 <a href="mailto:jaren719@gmail.com">
     <img src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/jaren-changi"> 
+<a href="https://www.linkedin.com/in/jaren-chang"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <h3>Skills</h3>
